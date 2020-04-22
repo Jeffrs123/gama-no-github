@@ -9,3 +9,7 @@ O curso está didático. Vários recursos, que de tanto fazer, cursos "a parte" 
 Então está sendo um momento de muito aprendizado.
 
 Obrigado Mr. Bombardelli.
+
+## Outro Subtítulo
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, pariatur, fugit ullam obcaecati vel voluptatum, asperiores eveniet dolore quae laudantium aut illo voluptates. At vero aliquam ipsa, aliquid molestiae dignissimos.
